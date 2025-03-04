@@ -1,0 +1,7 @@
+# Exclude temporary files and dependencies
+backend/temp_*.pdf
+backend/merged.pdf
+backend/__pycache__/
+frontend/node_modules/
+frontend/build/
+.DS_Store
