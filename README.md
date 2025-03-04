@@ -21,3 +21,11 @@ A web app to merge PDF files in a custom order with a drag-and-drop GUI.
 ## Tech Stack
 - Backend: Flask, PyPDF2 (PDF merging)
 - Frontend: React, react-beautiful-dnd (drag-and-drop)
+
+## Screenshots
+
+### Loaded State
+![Loaded State](https://raw.githubusercontent.com/LuxuryTimepiece/pdf-merger/refs/heads/master/screenshots/loaded.png)
+
+### Success State
+![Success State](https://raw.githubusercontent.com/LuxuryTimepiece/pdf-merger/refs/heads/master/screenshots/success.png)
